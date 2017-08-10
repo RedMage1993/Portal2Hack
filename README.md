@@ -1,14 +1,11 @@
 This hack allows a user to change the velocity of their character in single-player mode on Portal 2.
-
 I've uploaded a demo video to YouTube: https://youtu.be/_aLCpCKeQ8w?t=2m31s
-
-I believe Portal 2 has been updated/patched since my public release of this tool, so the offsets/pointers used in my source code may be off a little.
 
 <strong>More details, images, and/or animated GIFs coming soon.</strong>
 
 <hr>
 
-<h4>Some other examples of C Win32 GUI programming for hacks (no MFC, .NET, wrapper/Qt)</h4>
+<h4>Below are other examples of C Win32 GUI programming for my hacks (no MFC, .NET, wrapper/Qt)</h4>
 <h4>Clipper</h4>
 <p>A hack I worked on for the FFXI community for about 3-4 years, with donations for continued support/development.</p>
 <p>Some features:</p>
