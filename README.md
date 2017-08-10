@@ -1,8 +1,6 @@
 This hack allows a user to change the velocity of their character in single-player mode on Portal 2.
 I've uploaded a demo video to YouTube: https://youtu.be/_aLCpCKeQ8w?t=2m31s
 
-<strong>More details, images, and/or animated GIFs coming soon.</strong>
-
 <hr>
 
 <h4>Below are other examples of C Win32 GUI programming for my hacks (no MFC, .NET, wrapper/Qt)</h4>
