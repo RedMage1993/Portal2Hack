@@ -23,3 +23,7 @@ I've uploaded a demo video to YouTube: https://youtu.be/_aLCpCKeQ8w?t=2m31s
 <li>Attach to different instances of game by clicking on Name from combobox to support players that multiboxed</li>
 </ul>
 <img src="https://d26dzxoao6i3hh.cloudfront.net/items/3S2N091H1s0Q2U0X3a18/Jumper2.jpg">
+
+<h4>GTA: Vice City - Velocity Hack</h4>
+<p>A hack that allows you to have total control of your vehicle and fly it around using the hot keys you set up in this GUI.</p>
+<img src="https://d26dzxoao6i3hh.cloudfront.net/items/421X0F2i0t3s1X1Y3C3Q/vice%20city%20hack.jpg">
