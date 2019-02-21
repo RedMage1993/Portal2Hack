@@ -12,7 +12,7 @@ I've uploaded a demo video to YouTube: https://youtu.be/_aLCpCKeQ8w?t=2m31s
 <li>Walk through walls - ignore collision detection</li>
 <li>Attach to different instances of game by clicking on Name from combobox to support players that multiboxed</li>
 </ul>
-<img src="https://d26dzxoao6i3hh.cloudfront.net/items/3x132E232T3H0n2k2T30/11.jpg">
+<img src="https://d2aztkdj0ezvrk.cloudfront.net/items/3x132E232T3H0n2k2T30/11.jpg">
 
 <h4>Jumper</h4>
 <p>Another hack I worked on for FFXI. Name based on movie Jumper, because I thought it was super cool. :)</p>
@@ -22,8 +22,8 @@ I've uploaded a demo video to YouTube: https://youtu.be/_aLCpCKeQ8w?t=2m31s
 <li>Double-click on coordinate to teleport to that location</li>
 <li>Attach to different instances of game by clicking on Name from combobox to support players that multiboxed</li>
 </ul>
-<img src="https://d26dzxoao6i3hh.cloudfront.net/items/3S2N091H1s0Q2U0X3a18/Jumper2.jpg">
+<img src="https://d2aztkdj0ezvrk.cloudfront.net/items/3S2N091H1s0Q2U0X3a18/Jumper2.jpg">
 
 <h4>GTA: Vice City - Velocity Hack</h4>
 <p>A hack that allows you to have total control of your vehicle and fly it around using the hot keys you set up in this GUI.</p>
-<img src="https://d26dzxoao6i3hh.cloudfront.net/items/421X0F2i0t3s1X1Y3C3Q/vice%20city%20hack.jpg">
+<img src="https://d2aztkdj0ezvrk.cloudfront.net/items/421X0F2i0t3s1X1Y3C3Q/vice%20city%20hack.jpg">
